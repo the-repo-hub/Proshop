@@ -1,1 +1,1 @@
-# Proshop
+This is a project for one of my clients - a telegram bot that tracks the appearance of goods on the proshop website. If the script finds a product that was not previously fixed, it will send a link to it to the client
